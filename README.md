@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jimuel Segovia 👋
 
-<!--
-**jimuelsegovia/jimuelsegovia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | BS Information Systems
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Building
+- 🗄️ SQL — Intermediate (JOINs, Aggregations, Subqueries)
+- 📊 Excel / Google Sheets — Pivot Tables, VLOOKUP
+- 🐍 Python / Pandas — In Progress
+- 📈 Data Visualization — In Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+> Coming soon — check back weekly!
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/jimuel-segovia-0a2832347
+- Email: segovia.jimuel.escolano@gmail.com
